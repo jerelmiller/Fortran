@@ -6,9 +6,10 @@
 !  LAST REVISION: 2/13/12
 !  DESCRIPTION: A simple application to demonstrate DO statements
 !  VARIABLES USED:
-!    NAME:           TYPE:     COMMENT:
-!
-!
+!    NAME:           TYPE:       COMMENT:
+!     x               REAL        Variable used to store the randomly generated number
+!     ans             INTEGER     Variable used to store the number the user is trying to guess
+!     guess           INTEGER     Variable used to store the inputted guess from the user
 !
 !---------------------------------------------------------------------------
 
